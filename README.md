@@ -1,3 +1,5 @@
+Ödevde asp.net minimal api çerçevesinde kalınmalıdır (https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-8.0&tabs=visual-studio)
+
 ﻿1. Model Oluşturma: Model klasörü yaratak bu klasör altında Book adında bir model oluşturun. Bu model Id, Title (Başlık), Author (Yazar), ve Year (Yayın Yılı) özelliklerine sahip olmalı.
 
 2. Bu modeli kullanarak aşağıdaki kitapları içeren bir kitap listesi oluştur bu liste uygulamanın başlangıcında oluşturulmalıdır.
